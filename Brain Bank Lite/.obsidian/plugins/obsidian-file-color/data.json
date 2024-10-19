@@ -1,0 +1,149 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "FLXlSLfhphwQ4RCkpabjM",
+      "name": "MOC",
+      "value": "#0244fc"
+    },
+    {
+      "id": "EfUia1n1uDY0WbgTmtIzA",
+      "name": "Notes",
+      "value": "#028cca"
+    },
+    {
+      "id": "6FzlfDia5PEevyJ7wn8F4",
+      "name": "Resources",
+      "value": "#62a92f"
+    },
+    {
+      "id": "bKRsd25woHwhJVjEwyzZA",
+      "name": "System",
+      "value": "#d8f500"
+    },
+    {
+      "id": "iWICVDrBY_6QLdpbZp2N8",
+      "name": "Tags",
+      "value": "#f99300"
+    },
+    {
+      "id": "M_be1AljYCKcsuHsjGZiF",
+      "name": "Canvas",
+      "value": "#fc5006"
+    },
+    {
+      "id": "U05_g8EvLW3wcPnBpCdj4",
+      "name": "Workbench",
+      "value": "#fe230e"
+    },
+    {
+      "id": "10dxQMk88XICGyCyCh0e2",
+      "name": "Archive",
+      "value": "#a31746"
+    },
+    {
+      "id": "ALqwID_94oYkG6O_b_apv",
+      "name": "People",
+      "value": "#810909"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "03. MoC",
+      "color": "FLXlSLfhphwQ4RCkpabjM"
+    },
+    {
+      "path": "04. My Notes",
+      "color": "EfUia1n1uDY0WbgTmtIzA"
+    },
+    {
+      "path": "05. Chronicle",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "08. Tags",
+      "color": "iWICVDrBY_6QLdpbZp2N8"
+    },
+    {
+      "path": "11. Archive",
+      "color": "10dxQMk88XICGyCyCh0e2"
+    },
+    {
+      "path": "09. Canvas",
+      "color": "M_be1AljYCKcsuHsjGZiF"
+    },
+    {
+      "path": "10. Workbench",
+      "color": "U05_g8EvLW3wcPnBpCdj4"
+    },
+    {
+      "path": "12. Entities",
+      "color": "ALqwID_94oYkG6O_b_apv"
+    },
+    {
+      "path": "04. My Notes/01. Ideas",
+      "color": "EfUia1n1uDY0WbgTmtIzA"
+    },
+    {
+      "path": "05. Chronicle/01. Daily",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/02. Weekly",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/03. Monthly",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/04. Quarterly",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/05. Yearly",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/06. Sprint",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "01. MoC",
+      "color": "FLXlSLfhphwQ4RCkpabjM"
+    },
+    {
+      "path": "02. My Notes",
+      "color": "EfUia1n1uDY0WbgTmtIzA"
+    },
+    {
+      "path": "03. Resources",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "04. System",
+      "color": "bKRsd25woHwhJVjEwyzZA"
+    },
+    {
+      "path": "05. Tags",
+      "color": "iWICVDrBY_6QLdpbZp2N8"
+    },
+    {
+      "path": "06. Canvas",
+      "color": "M_be1AljYCKcsuHsjGZiF"
+    },
+    {
+      "path": "07. Workbench",
+      "color": "U05_g8EvLW3wcPnBpCdj4"
+    },
+    {
+      "path": "08. Archive",
+      "color": "10dxQMk88XICGyCyCh0e2"
+    },
+    {
+      "path": "09. Entities",
+      "color": "ALqwID_94oYkG6O_b_apv"
+    }
+  ]
+}

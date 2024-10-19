@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "fe2225fcda7ece6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dba3d9fef84a67f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5d6265274a03b71",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c492aae54c4ba419",
+    "type": "split",
+    "children": [
+      {
+        "id": "363e5fb5247a13d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b7e5b0f2dd02fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "516e959f99cfa9c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:quick-reference",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef9960994263729e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "75a48f317404243b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "794953523c45717b",
+    "type": "split",
+    "children": [
+      {
+        "id": "02000b5d65d4e387",
+        "type": "tabs",
+        "dimension": 58.91238670694864,
+        "children": [
+          {
+            "id": "9f2925e08ded15fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c540007af8f6d6e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ae52443dae07b8f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14a80817898fda3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f4cfec6a3de7ee15",
+        "type": "tabs",
+        "dimension": 41.08761329305136,
+        "children": [
+          {
+            "id": "a3e63fa0d38278a6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "c0ca9cf177276124",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "75a48f317404243b",
+  "lastOpenFiles": [
+    "01. MoC/programming.md",
+    "04. System/03. Logs/changelog.md",
+    "04. System/02. Artefacts/Artefacts.md",
+    "04. System/02. Artefacts/Pasted image 20241019122718.png",
+    "05. Tags/$temporary-note.md",
+    "02. My Notes/My Note.md",
+    "04. System/01. Templates/quick-reference-template.md",
+    "01. MoC/quick-reference.md",
+    "04. System/01. Templates/organisation-template.md",
+    "09. Entities/@myself.md",
+    "04. System/02. Artefacts/Pasted image 20241019114752.png",
+    "07. System/02. Artefacts/Pasted image 20241019114016.png",
+    "07. System/02. Artefacts",
+    "07. System",
+    "07. Workbench/Workbench Note.md",
+    "08. Archive/Archived Note.md",
+    "06. Canvas/My Canvas.canvas",
+    "01. MoC/software-architecture.md",
+    "05. Tags/$book-review.md",
+    "05. Tags/$action-item.md",
+    "05. Tags/$analysis.md",
+    "05. Tags/$book-type-audio.md",
+    "05. Tags/$book-type-ebook.md",
+    "05. Tags/$book-type-printed.md",
+    "05. Tags/$checklist.md",
+    "05. Tags/$dashboard.md",
+    "05. Tags/$discussion.md",
+    "05. Tags/$goals.md",
+    "05. Tags/$how-to.md",
+    "05. Tags/$idea.md",
+    "05. Tags/$meeting-note.md",
+    "02. Dashboards/Dashboard.canvas",
+    "04. My Notes/01. Ideas/Untitled",
+    "04. My Notes/01. Ideas",
+    "04. My Notes/02. Scribbles/05. Articles",
+    "04. My Notes/02. Scribbles/04. Experience Notes",
+    "04. My Notes/02. Scribbles/03. Novels",
+    "04. My Notes/02. Scribbles/02. Short Stories",
+    "04. My Notes/02. Scribbles/01. Poems",
+    "04. My Notes/02. Scribbles",
+    "09. Canvas/My Canvas.canvas",
+    "09. Canvas/Untitled 1.canvas",
+    "07. System/02. Artifacts/dashboard.jpg"
+  ]
+}

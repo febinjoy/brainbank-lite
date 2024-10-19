@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"08. Archive\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3679018
+      }
+    },
+    {
+      "query": "path:\"07. Workbench\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16655118
+      }
+    },
+    {
+      "query": "path:\"06. Canvas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16535558
+      }
+    },
+    {
+      "query": "path:\"05. Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16356096
+      }
+    },
+    {
+      "query": "path:\"04. System/03. Logs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2763813
+      }
+    },
+    {
+      "query": "path:\"04. System/02. Artefacts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3091752
+      }
+    },
+    {
+      "query": "path:\"04. System/01. Templates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4079149
+      }
+    },
+    {
+      "query": "path:\"04. System\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9337411
+      }
+    },
+    {
+      "query": "path:\"03. Resources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13428007
+      }
+    },
+    {
+      "query": "path:\"02. My Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 167114
+      }
+    },
+    {
+      "query": "path:\"01. MoC\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 148732
+      }
+    },
+    {
+      "query": "path:\"09. Entities\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8456457
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2695589107450515,
+  "close": true
+}
